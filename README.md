@@ -19,7 +19,7 @@ Minimum specs: PHP 7.2 or higher
 Download the files as a zip and place onto a working directory on a linux system of your choice. Once unzipped simply run the following 
 command:
 <pre>
-cd php-console-app
+cd card-shuffler-master
 
 php console.php card-shuffler:shuffle-and-deal
 </pre>
