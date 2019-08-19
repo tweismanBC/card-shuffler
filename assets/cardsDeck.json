@@ -1,0 +1,262 @@
+[
+  {
+    "card": "2",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "3",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "4",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "5",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "6",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "7",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "8",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "9",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "10",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "Jack",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "Queen",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "King",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "Ace",
+    "suit": "Hearts",
+    "color": "red"
+  },
+  {
+    "card": "2",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "3",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "4",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "5",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "6",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "7",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "8",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "9",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "10",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "Jack",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "Queen",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "King",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "Ace",
+    "suit": "Diamonds",
+    "color": "red"
+  },
+  {
+    "card": "2",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "3",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "4",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "5",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "6",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "7",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "8",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "9",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "10",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "Jack",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "Queen",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "King",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "Ace",
+    "suit": "Clubs",
+    "color": "black"
+  },
+  {
+    "card": "2",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "3",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "4",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "5",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "6",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "7",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "8",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "9",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "10",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "Jack",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "Queen",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "King",
+    "suit": "Spades",
+    "color": "black"
+  },
+  {
+    "card": "Ace",
+    "suit": "Spades",
+    "color": "black"
+  }
+]
