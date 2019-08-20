@@ -96,6 +96,8 @@ class DealCardsCommand extends Command
             // initial check failed, this will only run if there is a cardsDeck.json file in the assets folder
             $output->writeln("<error>Warning: the cardsDeck.json file was not found under ./assets/ directory. Please double check your deck of cards actually exists before trying to play this game.\r\n</error>");
         }
+
+        return true;
     }
 
     private function createHand($deck): array {
